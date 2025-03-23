@@ -90,19 +90,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
-## Contact
-
-For any questions or feedback, please contact [Your Name] at [your.email@example.com].
-```
-
-### Customization Instructions
-
-1. **Repository URL**: Replace `https://github.com/yourusername/your-repo-name.git` with the actual URL of your GitHub repository.
-
-2. **Contact Information**: Replace `[Your Name]` and `[your.email@example.com]` with your actual name and email address.
-
-3. **License**: If you haven't already, create a `LICENSE` file with the text of the license you choose (e.g., MIT License).
-
-4. **Push to GitHub**: Make sure to add and commit the `README.md` file to your Git repository and push it to GitHub.
-
-This version should be more readable and well-organized for anyone viewing your project on GitHub. If you have any further questions or need additional adjustments, feel free to ask!
